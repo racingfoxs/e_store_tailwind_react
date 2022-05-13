@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/e_store_tailwind_react/static/css/main.71414f55.css",
+    "main.js": "/e_store_tailwind_react/static/js/main.80f76588.js",
+    "static/media/shoe2.png": "/e_store_tailwind_react/static/media/shoe2.ef5414e508ed55925e20.png",
+    "static/media/tonikroos.jpg": "/e_store_tailwind_react/static/media/tonikroos.fb061c76e3ec05875a55.jpg",
+    "static/media/grasspic.jpg": "/e_store_tailwind_react/static/media/grasspic.60d418585600b05647eb.jpg",
+    "static/media/Product_Sans.ttf": "/e_store_tailwind_react/static/media/Product_Sans.863727019c4716c4dc24.ttf",
+    "static/media/christiano.jpg": "/e_store_tailwind_react/static/media/christiano.6c59ff44f69c755a3933.jpg",
+    "static/media/zidane.jpg": "/e_store_tailwind_react/static/media/zidane.b7444a37d5bbb4202777.jpg",
+    "static/media/Gobold_Regular.otf": "/e_store_tailwind_react/static/media/Gobold_Regular.5576dd47e1aa896baaf9.otf",
+    "static/media/medium.png": "/e_store_tailwind_react/static/media/medium.b87629cbe6267bf69b33.png",
+    "static/media/ikercasillas.jpg": "/e_store_tailwind_react/static/media/ikercasillas.3d1a1e063e58e3314681.jpg",
+    "static/media/insta.svg": "/e_store_tailwind_react/static/media/insta.47862a9f317959c3d5fc29700d0ca6af.svg",
+    "index.html": "/e_store_tailwind_react/index.html",
+    "static/media/facebook.svg": "/e_store_tailwind_react/static/media/facebook.6b4f7afe6ec5cf535062865a07aba10b.svg",
+    "main.71414f55.css.map": "/e_store_tailwind_react/static/css/main.71414f55.css.map",
+    "main.80f76588.js.map": "/e_store_tailwind_react/static/js/main.80f76588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71414f55.css",
+    "static/js/main.80f76588.js"
+  ]
+}
