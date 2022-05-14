@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c41311f.css",
-    "main.js": "/static/js/main.0332775e.js",
-    "static/media/shoe2.png": "/static/media/shoe2.ef5414e508ed55925e20.png",
-    "static/media/tonikroos.jpg": "/static/media/tonikroos.fb061c76e3ec05875a55.jpg",
-    "static/media/grasspic.jpg": "/static/media/grasspic.60d418585600b05647eb.jpg",
-    "static/media/Product_Sans.ttf": "/static/media/Product_Sans.863727019c4716c4dc24.ttf",
-    "static/media/christiano.jpg": "/static/media/christiano.6c59ff44f69c755a3933.jpg",
-    "static/media/zidane.jpg": "/static/media/zidane.b7444a37d5bbb4202777.jpg",
-    "static/media/Gobold_Regular.otf": "/static/media/Gobold_Regular.5576dd47e1aa896baaf9.otf",
-    "static/media/medium.png": "/static/media/medium.b87629cbe6267bf69b33.png",
-    "static/media/ikercasillas.jpg": "/static/media/ikercasillas.3d1a1e063e58e3314681.jpg",
-    "static/media/insta.svg": "/static/media/insta.47862a9f317959c3d5fc29700d0ca6af.svg",
-    "static/media/facebook.svg": "/static/media/facebook.6b4f7afe6ec5cf535062865a07aba10b.svg",
-    "index.html": "/index.html",
-    "main.8c41311f.css.map": "/static/css/main.8c41311f.css.map",
-    "main.0332775e.js.map": "/static/js/main.0332775e.js.map"
+    "main.css": "/e_store_tailwind_react/static/css/main.71414f55.css",
+    "main.js": "/e_store_tailwind_react/static/js/main.80f76588.js",
+    "static/media/shoe2.png": "/e_store_tailwind_react/static/media/shoe2.ef5414e508ed55925e20.png",
+    "static/media/tonikroos.jpg": "/e_store_tailwind_react/static/media/tonikroos.fb061c76e3ec05875a55.jpg",
+    "static/media/grasspic.jpg": "/e_store_tailwind_react/static/media/grasspic.60d418585600b05647eb.jpg",
+    "static/media/Product_Sans.ttf": "/e_store_tailwind_react/static/media/Product_Sans.863727019c4716c4dc24.ttf",
+    "static/media/christiano.jpg": "/e_store_tailwind_react/static/media/christiano.6c59ff44f69c755a3933.jpg",
+    "static/media/zidane.jpg": "/e_store_tailwind_react/static/media/zidane.b7444a37d5bbb4202777.jpg",
+    "static/media/Gobold_Regular.otf": "/e_store_tailwind_react/static/media/Gobold_Regular.5576dd47e1aa896baaf9.otf",
+    "static/media/medium.png": "/e_store_tailwind_react/static/media/medium.b87629cbe6267bf69b33.png",
+    "static/media/ikercasillas.jpg": "/e_store_tailwind_react/static/media/ikercasillas.3d1a1e063e58e3314681.jpg",
+    "static/media/insta.svg": "/e_store_tailwind_react/static/media/insta.47862a9f317959c3d5fc29700d0ca6af.svg",
+    "index.html": "/e_store_tailwind_react/index.html",
+    "static/media/facebook.svg": "/e_store_tailwind_react/static/media/facebook.6b4f7afe6ec5cf535062865a07aba10b.svg",
+    "main.71414f55.css.map": "/e_store_tailwind_react/static/css/main.71414f55.css.map",
+    "main.80f76588.js.map": "/e_store_tailwind_react/static/js/main.80f76588.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c41311f.css",
-    "static/js/main.0332775e.js"
+    "static/css/main.71414f55.css",
+    "static/js/main.80f76588.js"
   ]
 }
